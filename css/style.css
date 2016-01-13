@@ -1,0 +1,25 @@
+body{
+	margin : 0;
+	padding : 0;
+	text-align: center;
+}
+
+h1{
+	font-family: helvetica, sans-serif;
+}
+
+img.logoAquaPoney, img.logoPlaceToBoot{
+	display : inline-block;
+	text-align :center;
+}
+
+
+img.logoPlaceToBoot{
+	right : 20%;	
+}
+
+div.container{
+	display: inline-block;
+	/*background-color: red;*/
+	padding : 50px;
+}
